@@ -7,3 +7,8 @@ Operating systems also manage user accounts and passwords.
 Each account has a unique user name to identify it.
 Usually one of the users is considered an administrator that has more control over the device and network settings.
 The administrator can also control how much access other users have.
+
+Operating systems can also manage the programs on your device.
+The file manager organizes and displays files and folders, and usually has a search function for finding a specific one.
+The uninstaller can remove an unwanted program and all of it's files and folders.
+A disk defragmenter tool can reorganize the files on your hard drive to make your device faster.
