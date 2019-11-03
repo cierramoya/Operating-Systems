@@ -1,1 +1,0 @@
-Operating systems control every function of a device. They start and shut down devices, as well as offering functions like Sleep and Hibernate. They manage users and administrators, and the passwords for each of those accounts. They also provide an interface for the user to interact with.
