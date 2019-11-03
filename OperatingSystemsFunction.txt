@@ -1,4 +1,9 @@
-perating systems provide an interface for users to interact with.
+Operating systems provide an interface for users to interact with.
 Interfaces can be either graphic or command-line.
 Graphic interfaces has menus, tiles, icons, and other graphic items to interact with.
 Command-line interfaces are more visually basic, and require typed commands and prompts to carry out instructions.
+
+Operating systems also manage user accounts and passwords.
+Each account has a unique user name to identify it.
+Usually one of the users is considered an administrator that has more control over the device and network settings.
+The administrator can also control how much access other users have.
